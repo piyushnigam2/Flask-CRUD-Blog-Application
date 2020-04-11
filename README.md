@@ -1,6 +1,6 @@
 A Basic Blog Application demonstrating the CRUD Operations(Create, Read, Update, Delete) with accordance to MySQL.
 
-Required Packages:
+Dependencies/Required Packages:
 1) flask
 2) flask-bootstrap
 3) flask-mysqldb
